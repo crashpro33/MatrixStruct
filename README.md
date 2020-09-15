@@ -1,2 +1,2 @@
 # MatrixStruct C++
-A header file containing function overrides for a matrix using SIMD.
+A header file and cpp file containing function overrides and constructor for a matrix using SIMD.
